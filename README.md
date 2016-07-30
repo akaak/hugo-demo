@@ -7,3 +7,4 @@ To start the site:
 
 `$ hugo server --theme=hugo-theme-learn --buildDrafts`
 
+Located at `~/dev/hugo/demosite/learntheme` on the Local machine.
