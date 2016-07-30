@@ -11,3 +11,6 @@ icon: "<b>0. </b>"
 # Zero
 
 Discover what this Hugo theme is all about and the core-concepts behind it.
+
+uses the theme: <https://matcornic.github.io/hugo-learn-doc/basics/>
+
