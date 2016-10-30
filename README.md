@@ -1,5 +1,5 @@
 
-uses Hugo as static site generator
+Uses Hugo <https://gohugo.io> as static site generator
 
 uses the theme: https://matcornic.github.io/hugo-learn-doc/basics/installation/
 
