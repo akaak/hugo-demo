@@ -11,3 +11,4 @@ Located at `~/dev/hugo/demosite/learntheme` on the Local machine.
 
 Provides support for many open source themes.
 
+Hugo requirements: install with brew
